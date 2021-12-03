@@ -7,5 +7,5 @@ eureka:
   instance:
     hostname: localhost
 
-msg: Editted 3 Message from config server
+msg: Editted 4 Message from config server
   
